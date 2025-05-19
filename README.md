@@ -36,7 +36,7 @@ Currently working on data science research at the University of Aveiro.
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamad-reza-soltani)  
 - 📧 mohammadrz.soltani@gmail.com  
 - 🌐 [GitHub](https://github.com/Mohamadreza-Soltaniiii)
 
