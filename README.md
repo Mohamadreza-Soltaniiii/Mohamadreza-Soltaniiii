@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammadreza Soltani
 
 🎯 Data Scientist | Data Analyst | Financial Data Expert  
-📍 Based in Lisbon | Open to opportunities in Germany, Switzerland, UK, Denmark, Sweden, and Norway  
+📍 Based in Lisbon | Open to opportunities in Netherlands,Belgium, Germany, Switzerland, UK, Denmark, Sweden, and Norway  
 📊 Passionate about transforming raw data into actionable business insights  
 
 ---
