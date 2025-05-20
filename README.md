@@ -25,7 +25,7 @@ Currently working on data science research at the University of Aveiro.
 
 ---
 
-## 📁 Project Highlights *(Add links once repos are ready)*
+## 📁 Project Highlights 
 
 - **Sentiment Analysis for Business Research** (NLP with customer reviews)  
 - **Financial Forecasting Dashboards** (Power BI / Excel / Python)  
